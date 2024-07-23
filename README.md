@@ -125,7 +125,7 @@ class   Magzine extends Book {
 
 	
 
-		System.out.println("\tTHE MAGAZINE "+this.title +"+"+"AVAILABLE");}
+		System.out.println("\tTHE MAGAZINE "+this.title +" "+"AVAILABLE");}
 
     void orderquantity() {
 
